@@ -1,0 +1,22 @@
+{
+  "name": "citest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariuszmatusiak/ciTest.git"
+  },
+  "author": "Mariusz Matusiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariuszmatusiak/ciTest/issues"
+  },
+  "homepage": "https://github.com/mariuszmatusiak/ciTest#readme"
+}
