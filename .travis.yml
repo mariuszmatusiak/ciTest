@@ -9,6 +9,5 @@ deploy:
     secure: ZXKKdAw6EvvhNxtYeDFe6ypgZYgCZ2wFROdNhXX/jKM2VIUedFXTjEHOmNOJKdU/AsB+2eZry7U4T6FoR9Jw3QqqMvMvp9AkV0f17g9d0zJxmbZZAaRHQmDxtrlxg6ft+cLuLz64b9E6d2ggPFc5zwckeDI4+1xq5uNVU8oo/FfPpvyOD6FKJk+/c6JU31PWbQ6CxT0VwYRLHHeXYLmbPlmXaDq9CVRu/KPICRXD4x4qEddkf+mYWmvdMhgutBQ21ChTdewPqI5lKXV8szwCE826nDaZZ5HsRopNA8GaXfODAVx/dtLCMEmjLRCHsU+NiLHOEBmdAusSoLHTd9J1GnzxmyFDHO/TgNpXfvUoh3TD22eKtagCnh1ua0IU2picwLe54ZRtOBybQS7lemtjAINqlMlqK+RFEtyqehhxQxsc6RPGLRttad8SnAyRqSQ9+Z1/QOutYbq2r+Ctj2w34laWNfueiZCUwzj1f9aCYBJqI9Aaa1LEM15x0040ofEaxUH771jdwcVxiJeJxtngwk8QUowd0O48BZnuG+LGrMTPZ9LEiIi/XkvUxm3jf0VU7IJ2M4JQLuWJiuTn+JFbKUxxvdfTCU5wkAMwG3a80ayjW1bnQU3/b+An7R6Yiodd5hERKd3QJI7JOPLAb2/x/58Z17O4flZskpPdlgbUpOg=
   bucket: mariusz.matusiak
   upload-dir: matusiak
-  acl: ''
   on:
     repo: mariuszmatusiak/ciTest
