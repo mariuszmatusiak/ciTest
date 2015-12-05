@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/mariuszmatusiak/ciTest/issues"
   },
-  "homepage": "https://github.com/mariuszmatusiak/ciTest#readme"
+  "homepage": "https://github.com/mariuszmatusiak/ciTest#readme",
+  "dependencies": {
+    "aws-sdk": "^2.2.21",
+        "async": "^0.7.0",
+        "express": "~3.4.8"
+  }
 }

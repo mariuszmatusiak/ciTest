@@ -1,0 +1,2 @@
+D:\repo\ciTest\obj\Debug\ciTest.njsprojResolveAssemblyReference.cache
+D:\repo\ciTest\bin\Microsoft.NodejsTools.WebRole.dll
